@@ -1,5 +1,10 @@
 <h1 align="center">Yandex Music Custom Client</h1>
 
+<div>
+<img style="width:49%" src="scr1.png">
+<img style="width:49%" src="scr2.png">
+</div>
+
 Эта штука больше подходит для русскоязычной аудитории, так штооооо README я буду писать на русском :)
 
 В краце, это веб версия сайта music.yandex.com которую я сделал в замен клиенту яндекс музыки на винде.
