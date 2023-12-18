@@ -1,5 +1,7 @@
 <h1 align="center">Yandex Music Custom Client</h1>
 
+# Заархивировано, так как яндекс наконец-таки выпустил новый, охуенный клиент для пк :)
+
 <div>
 <img style="width:49%" src="scr1.png">
 <img style="width:49%" src="scr2.png">
